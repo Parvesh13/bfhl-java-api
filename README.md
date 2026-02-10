@@ -13,7 +13,7 @@ AI-based responses.
 -   **GET /health**
 
 **Live Demo:**\
-https://bfhl-java-api.onrender.com
+https://bfhl-java-api-production.up.railway.app/health
 
 ------------------------------------------------------------------------
 
